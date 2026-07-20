@@ -4,6 +4,9 @@
 <p align="center">
 Software Engineering @ McGill • AI • Robotics • Full Stack
 </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOURUSERNAME/YOURUSERNAME/output/github-contribution-grid-snake.svg" alt="Contribution Snake">
+</p>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=cpp,c,python,js,html,css,flask,git,github,vscode,linux"/>
