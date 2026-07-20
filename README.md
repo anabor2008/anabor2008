@@ -1,16 +1,19 @@
 ## Hi there 👋
+<h1 align="center">Hi 👋 I'm Anastasiia</h1>
 
-<!--
-**anabor2008/anabor2008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Software Engineering @ McGill • AI • Robotics • Full Stack
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,c,python,js,html,css,flask,git,github,vscode,linux"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="47%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight&hide_border=true" width="36%">
+</p>
+
+<p align="center">
+🏆 Best Hardware Hack @ Hack the 6ix
+</p>
