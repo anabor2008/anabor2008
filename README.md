@@ -23,7 +23,8 @@ Building projects that combine software and hardware to solve real-world problem
 
 
 
+Quote of the Day
 
-> *"Building software that makes technology more useful, accessible, and impactful."*
-
----
+<!-- QUOTE_START -->
+> Loading quote...
+<!-- QUOTE_END -->
