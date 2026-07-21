@@ -2,7 +2,7 @@
 
 🌸 Welcome to my GitHub!
 
-<img align="left" src="/githubpic.png" width="280" />
+<img align="left" src="/avatargithub.png" width="110" />
 
 **Software Engineering Student @ McGill University**  
 Interested in **AI • Robotics • Embedded Systems • Full-Stack Development**
