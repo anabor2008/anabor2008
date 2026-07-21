@@ -1,21 +1,42 @@
-### Hello! My name is Anastasiia
-<img align="left" src="/githubpic.png" width="300" >
+# Hi, I'm Anastasiia Boruk 👋
 
-<samp> 🌸 Welcome to my github :)</samp>
+<img align="right" src="/githubpic.png" width="280" />
 
-<a href="https://www.linkedin.com/in/anastasiiaboruk/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5" alt="LinkedIn Badge"/>
-</a>
-<a href="https://anastasiiaboruk.pythonanywhere.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Personal-1DA1F2" alt="Twitter Badge"/>
-</a>
-<a href="anastasiia.boruk@mail.mcgill.ca" target="_blank">
-  <img src="https://img.shields.io/badge/Email-E4405F" alt="Instagram Badge"/>
-</a>
-<br> <br>
+**Software Engineering Student @ McGill University**  
+Interested in **AI • Robotics • Embedded Systems • Full-Stack Development**
 
-<br>
-<!-- <i>
-"Technology is not neutral. Each algorithm, each system we design, carries a responsibility. Use your skills to build solutions that empower, enlighten, and do not harm."
-— Barbara Simons
-</i> -->
+Building projects that combine software and hardware to solve real-world problems.
+
+<p>
+  <a href="https://www.linkedin.com/in/anastasiiaboruk/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://anastasiiaboruk.pythonanywhere.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="mailto:anastasiia.boruk@mail.mcgill.ca">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+```cpp
+class Anastasiia {
+public:
+    string university = "McGill University";
+    string major = "Software Engineering";
+
+    vector<string> interests = {
+        "Artificial Intelligence",
+        "Robotics",
+        "Embedded Systems",
+        "Cybersecurity",
+        "Full-Stack Development"
+    };
+
+    string currentlyBuilding = "TinyVitals";
+};
+```
+
+> *"Building software that makes technology more useful, accessible, and impactful."*
+
+---
